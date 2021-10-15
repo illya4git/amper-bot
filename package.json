@@ -1,0 +1,23 @@
+{
+  "name": "amper-bot",
+  "version": "1.0.0",
+  "description": "Exciting Discord bot made by Ampersand Team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illya4git/amper-bot.git"
+  },
+  "author": "illya4git",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/illya4git/amper-bot/issues"
+  },
+  "homepage": "https://github.com/illya4git/amper-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "sqlite3": "^5.0.2"
+  }
+}
